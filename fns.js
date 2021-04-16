@@ -23,7 +23,20 @@ function mul(a, b) {
 }
 function div(a, b) {
     // Tener en cuenta division por 0
-    // Si b es 0 retornar "Error: div by 0"
+    if (b ! = 0){
+    	
+    	return a/b;
+    }
+    
+    // Si b es 0 retornar "Error: div by 0" 
+
+    try {
+    	return a/b;
+    }
+
+    catch (Exception e){
+    	System.out.println(" Error al divir por cero");
+    }
 }
 
 function pow(a, b) {
