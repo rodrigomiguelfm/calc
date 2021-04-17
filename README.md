@@ -2,7 +2,7 @@
 Integrantes del grupo:
 Rodrigo Miguel 
 Carolina Magro
-alexis mendez 
+Alexis Mendez 
 
 Calculadora con funciones simples.
 

@@ -23,7 +23,7 @@ function mul(a, b) {
 }
 function div(a, b) {
     // Tener en cuenta division por 0
-    if (b ! = 0){
+    if (b ! = 0) {
     	
     	return a/b;
     }
