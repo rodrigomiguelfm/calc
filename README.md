@@ -1,8 +1,10 @@
 # Calc
 Integrantes del grupo:
-Rodrigo Miguel 
-Carolina Magro
-Alexis Mendez 
+
+Rodrigo Miguel, 
+Carolina Magro,
+alexis mendez. 
+
 
 Calculadora con funciones simples.
 
